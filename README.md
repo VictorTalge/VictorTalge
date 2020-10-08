@@ -11,5 +11,7 @@ Meu nome é Victor Talge! Deixa eu falar um pouco de mim:
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_511953085185&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_5511953085185&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vt.talge@gmail.com)](mailto:vt.talge@gmail.com)
 
+-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorTalge&show_icons=true" alt="VictorTalge" />
+
 - Obrigado pela visita!! o/
 
