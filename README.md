@@ -2,7 +2,7 @@
 
 Meu nome é Victor Talge! Deixa eu falar um pouco de mim:
 
-- 🌱 Estou aprendendo atualmente Ethical Hacking e Python.
+- 🌱 Estou aprendendo atualmente Angular e Node.
 - 👯 Estou procurando vagas de Desenvolvedor.
 - 💬 Pode me perguntar sobre Java e Banco de Dados.
 - 📫 Contato: 
