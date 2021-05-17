@@ -13,3 +13,5 @@ Meu nome é Victor Talge! Deixa eu falar um pouco de mim:
 
 - Obrigado pela visita!! o/
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorTalge&show_icons=true&theme=radical)
+
