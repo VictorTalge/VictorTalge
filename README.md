@@ -2,8 +2,8 @@
 
 Meu nome é Victor Talge! Deixa eu falar um pouco de mim:
 
-- 🌱 Estou aprendendo atualmente Angular e Node.
-- 👯 Estou procurando vagas de Desenvolvedor.
+- 🌱 Estou aprendendo atualmente Angular, Node e Cloud.
+- 👯 Atualmente estagiando no Santander.
 - 💬 Pode me perguntar sobre Java e Banco de Dados.
 - 📫 Contato: 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/VictorTalge)
