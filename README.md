@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Meu nome é Victor Talge! Deixa eu falar um pouco de mim:
+Meu nome é Victor Talge, sou estudante de TI e deixa eu falar um pouco de mim:
 
 - 🌱 Estou aprendendo atualmente Angular, Node e Cloud.
 - 👯 Atualmente estagiando no Santander.
@@ -15,6 +15,6 @@ Meu nome é Victor Talge! Deixa eu falar um pouco de mim:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorTalge&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTalge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTalge&layout=compact&theme=react&locale=pt-br&border_radius=5&hide_border=true">
 
 
